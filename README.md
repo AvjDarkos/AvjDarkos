@@ -1,4 +1,4 @@
-### Opa Bem Vendo  👋
+### Opa Bem Vindo  👋
 
 <div>
   <a href="https://github.com/AvjDarkos">
